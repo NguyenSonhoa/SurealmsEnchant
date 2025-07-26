@@ -1,4 +1,4 @@
-# SurealmsEnchant Plugin - Advanced Enchanting System
+# SurealmsEnchant Plugin - Advanced Enchanting System - Premium of Surext Server Series, Not for sell motherfker.
 
 Plugin Minecraft với hệ thống enchant hoàn toàn mới, sử dụng Specialized Books và economy integration.
 
