@@ -80,9 +80,9 @@ surealms.enchant.admin: op      # Admin commands
 
 ### **Auto Smelting** (Legendary) - `surealms:auto_smelting`
 - **Pickaxe Only** - Level I
-- **Effect**: Tự động nấu chảy ores khi đào
+- **Effect**: Tự động nung banh cục quặng khi đào
 - **Vanilla Integration**: Works với /enchant command
-- **Conflicts**: Silk Touch
+- **Conflicts**: Silk Touch (Sài là bay acc crash game) :)
 
 ### **Backstab** (Epic) - `surealms:backstab`
 - **Sword & Axe** - Level I-III
