@@ -16,8 +16,6 @@ Plugin Minecraft với hệ thống enchant hoàn toàn mới, sử dụng Speci
 
 ## 🚀 Cách sử dụng
 
-### Commands
-
 ```bash
 /enchant                    # Mở enchanting table
 /enchant index             # Xem tất cả enchantments
@@ -77,6 +75,40 @@ surealms.enchant.admin: op      # Admin commands
 - Nhận lại một phần XP
 
 ## ⚡ **Vanilla-Style Custom Enchantments**
+
+### PlaceholderAPI Expansion với các placeholders:
+```bash
+%surealmsenchant_tier1_available% - true/false
+
+%surealmsenchant_tier2_available% - true/false
+
+%surealmsenchant_tier3_available% - true/false
+
+%surealmsenchant_tier1_enchant% - tên enchantment hiện tại
+
+%surealmsenchant_tier2_enchant% - tên enchantment hiện tại
+
+%surealmsenchant_tier3_enchant% - tên enchantment hiện tại
+%surealmsenchant_book_in_slot% - true/false
+%surealmsenchant_player_level% - level của player
+%surealmsenchant_player_money% - tiền của player
+%surealmsenchant_available_tiers% - số tier có sẵn
+%surealmsenchant_total_enchants% - tổng số enchants active
+```
+### Colored Status Placeholders:
+```bash
+%surealmsenchant_tier1_status% - "§aAvailable" hoặc "§cUnavailable"
+
+%surealmsenchant_tier2_status% - "§bAvailable" hoặc "§cUnavailable"
+
+%surealmsenchant_tier3_status% - "§dAvailable" hoặc "§cUnavailable"
+
+%surealmsenchant_tier1_enchant_colored% - enchant name với màu tier
+
+%surealmsenchant_tier2_enchant_colored% - enchant name với màu tier
+
+%surealmsenchant_tier3_enchant_colored% - enchant name với màu tier
+```
 
 ### **Auto Smelting** (Legendary) - `surealms:auto_smelting`
 - **Pickaxe Only** - Level I
